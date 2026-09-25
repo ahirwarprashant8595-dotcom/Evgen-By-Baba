@@ -1,0 +1,113 @@
+{
+    "threading": {
+        "generator": 1,
+        "joiner": 100,
+        "proxy_checker": 50,
+        "checker": 10
+    },
+    "nopecha": {
+        "enabled": true,
+        "api_key": "",
+        "solver_mode": "extension",
+        "extension_solver": true,
+        "req_solver": false,
+        "url": "https://api.nopecha.com"
+    },
+    "bright_data": {
+        "enabled": true,
+        "api_key": "2c1fdd5f-2761-4b22-b30a-a63b88b062df",
+        "customer_id": " hl_a78fb623",
+        "zone": "web_unlocker1"
+    },
+    "mail_services": {
+        "crowmail": {
+            "enabled": true,
+            "password": "babaophe@123"
+        },
+        "duckmail": {
+            "enabled": false,
+            "password": "babaophe@123"
+        },
+        "cybertemp": {
+            "enabled": false,
+            "api_key": ""
+        },
+        "tempmail_lol": {
+            "enabled": false
+        },
+        "hotmail007": {
+            "enabled": false,
+            "client_key": ""
+        },
+        "lution": {
+            "enabled": false,
+            "api_key": "",
+            "mailcode": "outlook2"
+        },
+        "zeus": {
+            "enabled": false,
+            "api_key": "",
+            "mailcode": "Hotmail_Trusted"
+        },
+        "draxono": {
+            "enabled": false,
+            "api_key": ""
+        },
+        "mailcow": {
+            "enabled": false,
+            "api_key": "",
+            "host": "",
+            "domain": ""
+        }
+    },
+    "verification": {
+        "enabled": true
+    },
+    "bot_token": "bottokebn",
+    "client_id": "1546165783305003028",
+    "client_secret": "TFgzycrKC1hxaibki1UiWN8vra_tBQ3H",
+    "redirect_uri": "http://localhost:8080",
+    "use_proxy": false,
+    "auth_joiner": {
+        "bot": {
+            "id": "1546165783305003028",
+            "secret": "TFgzycrKC1hxaibki1UiWN8vra_tBQ3H",
+            "token": "bottoken"
+        },
+        "web": {
+            "url": "http://localhost:8080"
+        },
+        "data": {
+            "guildId": "1466700998507761802",
+            "invite": ""
+        },
+        "use_proxy": false
+    },
+    "vpn": {
+        "enabled": true,
+        "reconnect_command": "\"C:\\Program Files\\Mullvad VPN\\resources\\mullvad.exe\" reconnect",
+        "reconnect_delay": 1,
+        "rotate_on_flag": true,
+        "rotate_every_account": true,
+        "rotate_country": true,
+        "max_retries": 2,
+        "country_list": [
+            "us",
+            "gb",
+            "de",
+            "se",
+            "jp",
+            "ca",
+            "fr",
+            "nl",
+            "ch",
+            "sg",
+            "au",
+            "fi",
+            "br",
+            "es",
+            "it"
+        ]
+    },
+    "theme_accent": "#10b981"
+}

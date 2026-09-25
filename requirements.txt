@@ -1,0 +1,10 @@
+stealth_requests
+colorama
+pystyle
+websocket-client
+requests
+pillow
+websockets
+tls_client
+primp
+truedriver
